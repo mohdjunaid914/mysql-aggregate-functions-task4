@@ -14,7 +14,7 @@ This project focuses on using SQL aggregate functions to summarize data from the
 - Joining tables to create meaningful summaries  
 
 ## File Included
-- `task4_aggregate_functions.sql` — contains all aggregate and grouping queries.
+- `mysql-aggregate-functions-task4.sql` — contains all aggregate and grouping queries.
 
 ## Outcome
 By completing this task, I learn how to summarize large tables, perform group-based calculations, and analyze data using MySQL aggregate functions.
